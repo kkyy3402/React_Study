@@ -1,5 +1,5 @@
 import React from 'react';
-import "./App.css"
+import "../App.css"
 
 function Hello(){
     const name = "김강열";
