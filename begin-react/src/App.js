@@ -5,12 +5,13 @@ import Wrapper from "./TestDatas/Wrapper";
 import Counter from "./TestDatas/Counter";
 import InputSample from "./TestDatas/InputSample";
 import MultipleInputSample from "./TestDatas/MultipleInputSample";
+import UseRefExample from "./TestDatas/UseRefExample";
 
 function App() {
   return (
     <div className="App">
       
-      <MultipleInputSample/>
+      <UseRefExample/>
       
       
     </div>
