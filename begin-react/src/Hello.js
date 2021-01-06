@@ -1,4 +1,5 @@
 import React from 'react';
+import "./App.css"
 
 function Hello(){
     const name = "김강열";
@@ -10,6 +11,7 @@ function Hello(){
 
     return <div>
         <div className="itsClassName" style={style}>안녕하세요 {name}님! </div>
+        <div className="gray-box"></div>
     </div>
 }
 
